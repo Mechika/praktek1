@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Resep</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Resep Pancake</h1>
+    <br>
+    <img src="pancake.jpeg" width="250" height="200" align="right" hspace="20" vspace="20" alt="Sila">
+   
+    <h3>Bahan-Bahan : </h3>
+    <ul type="circle">
+    <li>500 gram tepung terigu</li>
+    <li>350 ml susu</li>
+    <li>1/2 sdt soda kue</li>
+    <li>2 sdm mentega</li>
+    <li>5 sdm  gula</li>
+    <li>1/2 sdt ekstrak vanili</li>
+    <li>Sejumput garam </li>
+    </ul>
+    <br>
+    <hr>
+
+    <h3>Langkah-Langkah : </h3>
+    <h4>
+        1. Pecahkan telur ke dalam sebuah mangkuk, lalu aduk hingga teksturnya lembut.
+        <br>
+        <img src="telur.jpeg" width="120" height="120" align="left" hspace="20" vspace="20" alt="Sila">
+    </h4>
+    
+    <br><br><br><br><br><br><br>
+
+    <h4>
+        2. Lelehkan mentega dalam sebuah mangkuk tahan panas di dalam microwave.
+        <br>
+        <img src="mentega.jpg" width="120" height="120" align="left" hspace="20" vspace="20" alt="Sila">
+    </h4>
+
+    <br><br><br><br><br><br><br>
+    
+    <h4>
+        3. Tambahkan mentega dan susu ke dalam adonan. Kemudian, aduk seluruh bahan hingga tercampur dengan baik.
+        <br>
+        <img src="adonan.jpeg" width="120" height="120" align="left" hspace="20" vspace="20" alt="Sila">
+    </h4>
+
+    <br><br><br><br><br><br><br>
+    
+    <h4>
+        4. Tuangkan sekitar 3 sendok makan atau 60 ml adonan ke atas wajan yang sudah panas 
+        dan telah diolesi dengan minyak. 
+        <br>
+        <img src="wajan.jpeg" width="120" height="120" align="left" hspace="20" vspace="20" alt="Sila">
+    </h4>
+    
+    <br><br><br><br><br><br><br>
+    
+    <h4>
+        5. Masak salah satu sisi panekuk selama dua menit atau sampai warnanya berubah menjadi 
+        cokelat keemasan, lalu masak juga sisi lainya.
+        <br>
+        <img src="masak.jpeg" width="120" height="120" align="left" hspace="20" vspace="20" alt="Sila">
+    </h4>
+    
+    <br><br><br><br><br><br><br>
+    
+    <h4>
+        6. Pancake buatan anda siap dinikmati.
+        <br>
+        <img src="pancake.jpeg" width="120" height="120" align="left" hspace="20" vspace="20" alt="Sila">
+    </h4>
+
+    <br><br><br><br><br><br><br>
+    
+
+
+</body>
+</html>
+
+
