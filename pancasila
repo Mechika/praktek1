@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+    <title>Lambang Pancasila</title>
+</head>
+<body>
+
+    <h1 style="text-align: center;">PANCASILA</h1>
+    <img src="sila1.jpeg" width="120" height="120" align="left"
+    hspace="20" vspace="20" alt="Sila"> 
+    <br><br>
+    <h3>Ketuhanan Yang Maha Esa</h3>
+
+    <br>
+    <img src="sila2.png" width="120" height="120" align="right" hspace="20" vspace="20" alt="Sila">
+    </br> <br>
+    <h3 style="text-align: right;">Kemanusiaan Yang Adil Dan Beradab </h3>
+
+    <br>
+    <img src="sila3.jpeg" width="120" height="120" align="left" hspace="20" vspace="20" alt="Sila">
+    <br><br>
+    <h3>Persatuan Indonesia</h3>
+
+    <br>
+    <img src="sila4.jpeg" width="120" height="120" align="right" hspace="20" vspace="20" alt="Sila">
+    </br> <br>
+    <h3 style="text-align: right;"> Kerakyatan Yang Dipimpin Oleh Hikmat 
+    Kebijaksanaan Dalam Permusyawaratan Perwakilan  </h3>
+
+    <br>
+    <img src="sila5.jpg" width="120" height="120" align="left" hspace="20" vspace="20" alt="Sila">
+    <br><br>
+    <h3>Keadilan Sosial Bagi Seluruh Indonesia</h3>
+    
+</body>
+</html>
